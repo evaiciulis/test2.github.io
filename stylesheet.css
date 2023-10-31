@@ -1,0 +1,116 @@
+@charset "UTF-8";
+
+.image {
+}
+.nav {
+    /* [disabled]background-color: #708A81; */
+}
+style>
+a:link, a:visited {
+  background-color: #708A81;
+  color: #2B2128;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #DD8E58;
+}
+.About {
+    font-size: 75px;
+    font-family: 'Trophy Regular';
+    color: #708A81;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.text {
+    font-size: 25px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+    color: #2B2128;
+    text-align: left;
+    font-weight: normal;
+    min-width: 0px;
+    margin-left: 80px;
+    margin-right: 80px;
+    line-height: 40px;
+}
+.container class {
+	
+}.w3-container.w3-red {
+    background-color: #708A81;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 25px;
+    text-align: left;
+    line-height: 30px;
+    color: #2B2128;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-color: #708A81;
+    border-width: 50px;
+    padding-left: 30px;
+    padding-right: 15px;
+}
+.w3-container.w3-red h1 em {
+    color: #DD8E58;
+    font-size: 55px;
+    font-style: normal;
+}
+.list {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 25px;
+    line-height: 50px;
+}
+.head1 {
+    margin-left: 80px;
+    margin-right: 80px;
+    color: #708A81;
+    font-size: 65px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+.colorwho {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: lighter;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.typp2 {
+    color: #2B2128;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 200;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.typph2 {
+    color: #708A81;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-weight: 600;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.ratio {
+    margin-left: 130px;
+    margin-right: 80px;
+	
+}
+
+.bottom {
+    color: #708A81;
+    font-family: "Trophy Regular";
+    font-size: 20px;
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: center;
+}
+.button11 {
+    margin-left: 100px;
+}
+.ratioimage {
+    margin-left: 250px;
+}
